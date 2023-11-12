@@ -1,0 +1,54 @@
+Group member’s names and x500s
+- Albert Shim - shim0222@umn.edu
+- Joshua Hor Soong, Cheng - chen7647@umn.edu
+
+Contributions of each partner (if applicable)
+Albert Shim - shim0222@umn.edu
+- readme.txt
+- HashTable.java
+Joshua Hor Soong, Cheng - chen7647@umn.edu
+- readme.txt
+- HashTable.java
+
+Any assumptions:
+
+Additional features that your project had (if applicable)
+
+Any known bugs or defects in the program
+
+Credit ALL outside references used in completing this project both in the README and within the code that utilizes the referenced material.
+
+Academic Integrity statement
+
+I certify that the information contained in this README
+file is complete and accurate. I have both read and followed the course policies
+in the ‘Academic Integrity - Course Policy’ section of the course syllabus.”
+
+Joshua Hor Soong, Cheng
+Albert Shim
+
+Output from your hash table for each given file.
+canterbury.txt
+# unique words: 348
+# empty indices: 70
+# nonempty indices: 171
+average collision length: 2.0350877192982457
+length of longest chain: 15
+
+gettysburg.txt
+# unique words: 266
+# empty indices: 98
+# nonempty indices: 143
+average collision length: 1.8601398601398602
+length of longest chain: 9
+
+keywords.txt
+# unique words: 50
+# empty indices: 194
+# nonempty indices: 47
+average collision length: 1.0638297872340425
+length of longest chain: 3
+
+A brief description of your hash function and its operation
+- I changed the hash size to 241, mainly because i was told that the size needs to be as close to a prime number for least collision
+
